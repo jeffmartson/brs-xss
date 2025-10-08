@@ -5,7 +5,7 @@
 # Status: Created
 # Telegram: https://t.me/EasyProTech
 
-FROM python:3.10-slim-bookworm
+FROM python:3.14.0-slim-bookworm
 
 ENV PYTHONDONTWRITEBYTECODE=1 \
     PYTHONUNBUFFERED=1 \
