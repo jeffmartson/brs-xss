@@ -26,3 +26,4 @@ bump2version>=1.0.0      # Version management
 # Documentation
 mkdocs>=1.5.0            # Documentation generator
 mkdocs-material>=9.1.0   # Material theme for docs
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
