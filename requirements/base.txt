@@ -19,7 +19,7 @@ polib>=1.2.0             # PO files manipulation
 
 # Utilities
 python-dateutil>=2.8.0   # Date/time utilities
-urllib3>=1.26.0          # HTTP library utilities
+urllib3>=2.6.3          # HTTP library utilities
 
 # DOM XSS Detection
 playwright>=1.50.0       # Headless browser for DOM XSS detection
